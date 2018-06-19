@@ -1,0 +1,22 @@
+{
+  "name": "pqms-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "express": "~4.16.0",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "pg": "^7.4.3",
+    "pg-format": "^1.0.4",
+    "promise": "^8.0.1",
+    "python-shell": "^0.5.0",
+    "request": "^2.87.0"
+  }
+}
